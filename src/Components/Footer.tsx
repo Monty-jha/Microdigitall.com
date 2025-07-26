@@ -61,7 +61,7 @@ const Footer: FC = () => {
           <div className="space-y-3">
             <div className="flex items-center">
               <img
-                src="/src/assets/logo1.png"
+                src="/src/assets/Logo4.png"
                 alt="Company Logo"
                 className="h-20 w-30"
               />
